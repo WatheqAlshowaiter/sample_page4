@@ -4,7 +4,7 @@ an image-to-HTML/CSS coding
 
 ## live preview
 
-[on github pages]()
+[on github pages](https://watheqalshowaiter.github.io/sample_page4/)
 
 ## notes
 
